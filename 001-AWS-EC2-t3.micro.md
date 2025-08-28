@@ -2,7 +2,8 @@
 **实例类型**: t3.micro  
 **CPU**: Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz  
 **配置**: 2C1G  
-**IP**: ASN16509  
+**IP/ASN**: ASN16509（Amazon.com）  
+**机房位置**: 中国香港
 **其他**: AWS 免费套餐  
 
 ---
