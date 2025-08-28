@@ -16,5 +16,6 @@ curl -L https://gitlab.com/spiritysdx/za/-/raw/main/ecs.sh -o ecs.sh && chmod +x
 **配置**: 2C1G  
 **IP/ASN**: ASN16509（Amazon.com）  
 **机房位置**: 中国香港
-**其他**: AWS 免费套餐  
+**其他**: AWS 免费套餐 
+
 ---
