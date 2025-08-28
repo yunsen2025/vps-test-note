@@ -8,12 +8,18 @@ curl -L https://gitlab.com/spiritysdx/za/-/raw/main/ecs.sh -o ecs.sh && chmod +x
 ```  
 部分会运行宝塔测试  
 ---
-格式：  
+格式  
 
 **云服务商**：  
-**实例类型**：
+
+**实例类型**：  
+
 **IP**：  
+
 **CPU**：  
+
 **配置**：xCxGxM  
+
 **其他**：
+
 ---
