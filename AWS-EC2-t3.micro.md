@@ -8,10 +8,6 @@
 ---
 [https://paste.spiritlhl.net/#/show/h0s6e.txt](https://paste.spiritlhl.net/#/show/h0s6e.txt)
 ```
-测评频道: https://t.me/vps_reviews                    
-VPS融合怪版本：2025.08.15
-Shell项目地址：https://github.com/spiritLHLS/ecs
-Go项目地址 [推荐]：https://github.com/oneclickvirt/ecs
 ---------------------基础信息查询--感谢所有开源项目---------------------
  CPU 型号          : Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz
  CPU 核心数        : 2
