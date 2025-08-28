@@ -7,7 +7,7 @@
 **其他**: 活动实例 29元首年
 
 ---
-[https://paste.spiritlhl.net/#/show/xGp4p.txt](https://paste.spiritlhl.net/#/show/xGp4p.txt)
+[https://paste.spiritlhl.net/#/show/ZoFqi.txt](https://paste.spiritlhl.net/#/show/ZoFqi.txt)
 ```
 测评频道: https://t.me/vps_reviews                    
 VPS融合怪版本：2025.08.15
