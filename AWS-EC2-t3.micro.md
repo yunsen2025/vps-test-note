@@ -1,9 +1,10 @@
-**云服务商**：AWS  
-**实例类型**：t3.micro  
-**IP**：ASN16509  
-**CPU**：Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz  
-**配置**：2C1G  
-**其他**：AWS免费套餐
+**云服务商**: AWS  
+**实例类型**: t3.micro  
+**CPU**: Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz  
+**配置**: 2C1G  
+**IP**: ASN16509  
+**其他**: AWS 免费套餐  
+
 ---
 [https://paste.spiritlhl.net/#/show/h0s6e.txt](https://paste.spiritlhl.net/#/show/h0s6e.txt)
 ```
@@ -245,4 +246,5 @@ Speedtest.net	 3938.78Mbps	 4016.79Mbps	 737.15ms
  总共花费      : 8 分 48 秒
  时间          : Thu Aug 28 06:31:06 UTC 2025
 ------------------------------------------------------------------------
+
 ```
