@@ -5,9 +5,11 @@ VPS性能测试记录仓库
 脚本：https://github.com/spiritLHLS/ecs  
 ```
 curl -L https://gitlab.com/spiritysdx/za/-/raw/main/ecs.sh -o ecs.sh && chmod +x ecs.sh && bash ecs.sh
-```
+```  
 部分会运行宝塔测试  
+---
 格式：  
+
 **云服务商**：  
 **实例类型**：
 **IP**：  
